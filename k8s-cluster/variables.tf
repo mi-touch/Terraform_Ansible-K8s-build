@@ -27,3 +27,4 @@ variable "vm_memory" {
   description = "Memory per VM in MB"
   default     = 4096
 }
+
